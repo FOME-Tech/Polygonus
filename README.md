@@ -12,3 +12,5 @@ Out of scope -
 - Race cars and tuned cars with large ammounts of additinal equipment (that's for a wire in proteus or atlas) 
 - Non-standard engines in chassis 
 - Additional equipment beyond common mods to the chassis 
+
+Intended form factor - 80mm x 80mm up to 85mm x 85mm to suit the majority of cases but ideally as small as practical 
