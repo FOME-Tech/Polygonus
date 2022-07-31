@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name tsdso24)(type KiCad)(uri ${KIPRJMOD}/tsdso24.pretty)(options "")(descr ""))
+  (lib (name ampseal)(type KiCad)(uri ${KIPRJMOD}/ampseal.pretty)(options "")(descr ""))
+  (lib (name via)(type KiCad)(uri ${KIPRJMOD}/via.pretty)(options "")(descr ""))
+  (lib (name powersso)(type KiCad)(uri ${KIPRJMOD}/PowerSSO.pretty)(options "")(descr ""))
+  (lib (name conn_5_2.5mm)(type KiCad)(uri ${KIPRJMOD}/conn_5_2.5mm.pretty)(options "")(descr ""))
+  (lib (name sunlord-MWSA0503)(type KiCad)(uri ${KIPRJMOD}/sunlord-MWSA0503.pretty)(options "")(descr ""))
+  (lib (name PG-DSO-36-72)(type KiCad)(uri ${KIPRJMOD}/PG-DSO-36-72.pretty)(options "")(descr ""))
+)
