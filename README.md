@@ -16,9 +16,11 @@ Out of scope -
 Intended form factor - 80mm x 80mm up to 85mm x 85mm to suit the majority of cases but ideally as small as practical  
 
 Current list of parts dropped from Proteus:  
-- 4x lowsides (remove two VNLD5090)  
-- Both ETB (TLE9201 only added if vehicle needs )  
-- Both VR (board configured for hall and MAX added if vehicle needs VR, also larger MAX chip can be used)  
-- 4x High/low (TC4427)  
-- Knock signal headphone jack  
+- 4x lowsides (remove two VNLD5090)  LS 9 - 12 routed to plugs  
+- 2x High Sides () HS 3+4 routed to plugs Resistor network still in place on board  
+- 4x High/low (TC4427)  IGN 9 - 12 removed and routed to pins
+- Knock signal headphone jack  () Line out removed from filtered 1 and 2  
+- Both ETB (TLE9201 only added if vehicle needs )  Removing ETB means routing Dis, Dir and PWM to pins adds 2 pins to total  
+- Both VR (board configured for hall and MAX added if vehicle needs VR, also larger MAX chip can be used)  VR1+ and VR2+ connected to pin, VR- Removed from pins  
 
+Requirement to route 3.3v and 5v out of board for additional vehicle board equipment  
