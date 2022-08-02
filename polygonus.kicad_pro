@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.3,
-          "height": 0.6,
-          "width": 0.6
+          "drill": 0.0,
+          "height": 0.64,
+          "width": 0.59
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -367,7 +367,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "proteus.kicad_pro",
+    "filename": "polygonus.kicad_pro",
     "version": 1
   },
   "net_settings": {
