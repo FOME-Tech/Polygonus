@@ -1428,7 +1428,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 23345f3e-d08d-4834-b1dc-64de02569916)
   )
-  (label "+5v" (at 255.4645 49.8096 180)
+  (label "+5V" (at 255.4645 49.8096 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 24b19473-43fe-4110-b89d-433750f46407)
   )

@@ -49,7 +49,11 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|112105500|6496984|00000000-0000-0000-0000-00005ed3113f|00000000-0000-0000-0000-00005f3e2c5f",
+        "silk_over_copper|55710000|-19121456|d67f868d-53f9-4bb4-bd2c-92ef211808ff|eefeaa69-a5fe-42d9-8e5a-806a1b488e12",
+        "silk_over_copper|55768314|-19121456|9d98d134-0903-4480-ac01-2f2837a27307|eefeaa69-a5fe-42d9-8e5a-806a1b488e12"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
