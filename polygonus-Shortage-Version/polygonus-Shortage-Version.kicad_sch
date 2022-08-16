@@ -4356,6 +4356,18 @@
     (path "/00000000-0000-0000-0000-00005d99f107/00000000-0000-0000-0000-00005da364de"
       (reference "#PWR0154") (unit 1) (value "GND") (footprint "")
     )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/1ef990c4-ad19-4ecd-b931-71a11337a781"
+      (reference "#PWR0155") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/7062b116-3dd4-48ae-8d60-2c8139a229c4"
+      (reference "#PWR0156") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/fd921d3d-3d3c-4b5b-a1b4-cdaae0fac68d"
+      (reference "#PWR0157") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/a736987a-b9c8-4aca-8a21-0b63e0eb1781"
+      (reference "#PWR0158") (unit 1) (value "GND") (footprint "")
+    )
     (path "/00000000-0000-0000-0000-00005d99f54c/00000000-0000-0000-0000-00005da35132"
       (reference "#PWR0161") (unit 1) (value "GND") (footprint "")
     )
@@ -5043,6 +5055,12 @@
     (path "/00000000-0000-0000-0000-00005f1fca08"
       (reference "C17") (unit 1) (value "56u") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
     )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/a8d87bbe-ab95-4d49-9277-5ba87d220589"
+      (reference "C18") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/3fb4ac48-e961-435a-96fe-581071d48a42"
+      (reference "C19") (unit 1) (value "10n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
     (path "/00000000-0000-0000-0000-00005d99e6ee/00000000-0000-0000-0000-00006009a538"
       (reference "C20") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
@@ -5532,6 +5550,12 @@
     (path "/00000000-0000-0000-0000-00005e814213/00000000-0000-0000-0000-00005e85e287"
       (reference "R47") (unit 1) (value "33k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/6716e38d-1f7c-47c3-bfe2-8b072cd8af9f"
+      (reference "R48") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/26d1d70d-d5c9-430f-9ed0-48f2313ca943"
+      (reference "R49") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/00000000-0000-0000-0000-00005d9a3845/00000000-0000-0000-0000-00005dd4ee12"
       (reference "R701") (unit 1) (value "470k") (footprint "Resistor_SMD:R_0402_1005Metric")
     )
@@ -5805,6 +5829,9 @@
     (path "/00000000-0000-0000-0000-00005da72eff/939b19fc-9435-488c-a89e-fd6027752161"
       (reference "U11") (unit 1) (value "MCP2551-I-SN") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
+    (path "/00000000-0000-0000-0000-00005dd5b2e0/31b9ddc4-7959-4da7-963e-544193420730"
+      (reference "U12") (unit 1) (value "BTS716G") (footprint "Package_SO:Infineon_PG-DSO-20-32")
+    )
     (path "/00000000-0000-0000-0000-00005d98a146/00000000-0000-0000-0000-00005d98a4d3"
       (reference "U201") (unit 1) (value "VNLD5160") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
     )
@@ -5895,12 +5922,6 @@
     (path "/00000000-0000-0000-0000-00005dcc02d0/00000000-0000-0000-0000-00005d9a5a25"
       (reference "U1101") (unit 5) (value "MCP6004") (footprint "Package_SO:TSSOP-14_4.4x5mm_P0.65mm")
     )
-    (path "/00000000-0000-0000-0000-00005dd5b2e0/00000000-0000-0000-0000-00005e9f319c"
-      (reference "U1102") (unit 1) (value "BTS4175SGA") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
-    (path "/00000000-0000-0000-0000-00005dd5b2e0/00000000-0000-0000-0000-00005ea089bc"
-      (reference "U1103") (unit 1) (value "BTS4175SGA") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
-    )
     (path "/00000000-0000-0000-0000-00005dd8090b/4181daae-165b-4fa3-9dfa-bfc1874ddbc2"
       (reference "U1202") (unit 1) (value "SN74LVC2G17DB") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
@@ -5926,16 +5947,16 @@
       (reference "U1502") (unit 1) (value "USBLC6-2SC6") (footprint "Package_TO_SOT_SMD:SOT-23-6")
     )
     (path "/00000000-0000-0000-0000-00005d975f3c/00000000-0000-0000-0000-00005d976380"
-      (reference "U1602") (unit 1) (value "MIC4427") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1602") (unit 1) (value "MIC4427") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-00005d975f3c/00000000-0000-0000-0000-00005d976d5e"
-      (reference "U1603") (unit 1) (value "MIC4427") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1603") (unit 1) (value "MIC4427") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-00005d98f734/00000000-0000-0000-0000-00005d976380"
-      (reference "U1701") (unit 1) (value "MIC4427") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1701") (unit 1) (value "MIC4427") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-00005d98f734/00000000-0000-0000-0000-00005d976d5e"
-      (reference "U1702") (unit 1) (value "MIC4427") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (reference "U1702") (unit 1) (value "MIC4427") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-00005d99e6ee/00000000-0000-0000-0000-00005e835c0d"
       (reference "Y1501") (unit 1) (value "8MHz") (footprint "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm")
