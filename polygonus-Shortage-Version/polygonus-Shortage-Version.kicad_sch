@@ -4974,6 +4974,9 @@
     (path "/46495fed-359e-4c30-808a-9217af090de7/66496a83-8028-4c5c-a7e0-e19b4586ca05"
       (reference "D6") (unit 1) (value "1N4148WS") (footprint "Diode_SMD:D_SOD-323")
     )
+    (path "/00000000-0000-0000-0000-00005d99e6ee/711f911a-0c3f-4b67-b68d-fa197f06e879"
+      (reference "D7") (unit 1) (value "schottky") (footprint "Diode_SMD:D_SOD-123")
+    )
     (path "/00000000-0000-0000-0000-00005e988fe1"
       (reference "D101") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SMA")
     )
