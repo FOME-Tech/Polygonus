@@ -5,7 +5,7 @@ Proteus based brain board to enable modular PNP
 
 In scope -  
 - Critical systems on the majority of PNP targets  
-- up to 8 cylinder capability built into the brainn board  
+- up to 8 cylinder capability built into the brain board  
 - Full feature set of the protues broken out to pins meaning vheicle board can add the additional circuits if required  
 
 Out of scope -  
