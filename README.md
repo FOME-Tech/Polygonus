@@ -9,7 +9,7 @@ In scope -
 - Full feature set of the protues broken out to pins meaning vheicle board can add the additional circuits if required  
 
 Out of scope -  
-- Race cars and tuned cars with large ammounts of additinal equipment (that's for a wire in proteus or atlas)  
+- Race cars and tuned cars with large ammounts of additional equipment (that's for a wire in proteus or atlas)  
 - Non-standard engines in chassis  
 - Additional equipment beyond common mods to the chassis  
 
