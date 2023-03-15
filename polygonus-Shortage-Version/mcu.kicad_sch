@@ -5,11 +5,9 @@
   (paper "A3")
 
   (title_block
-    (title "rusEfi Proteus")
-    (date "2022-04-09")
+    (title "Polygonus")
+    (date "2023-03-15")
     (rev "v0.7")
-    (company "rusEFI")
-    (comment 1 "github.com/mck1117/proteus")
     (comment 2 "rusefi.com/s/proteus")
   )
 

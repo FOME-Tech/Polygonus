@@ -5,12 +5,9 @@
   (paper "A4")
 
   (title_block
-    (title "rusEfi Proteus")
-    (date "2022-04-09")
+    (title "Polygonus")
+    (date "2023-03-15")
     (rev "v0.7")
-    (company "rusEFI")
-    (comment 1 "github.com/mck1117/proteus")
-    (comment 2 "rusefi.com/s/proteus")
   )
 
   (lib_symbols
@@ -803,7 +800,7 @@
   )
 
   (no_connect (at 227.33 36.83) (uuid 97996bfe-fe26-4b43-b7c7-1e5e8f4d72f5))
-  (no_connect (at 227.33 39.37) (uuid 97996bfe-fe26-4b43-b7c7-1e5e8f4d72f5))
+  (no_connect (at 227.33 39.37) (uuid 97996bfe-fe26-4b43-b7c7-1e5e8f4d72f6))
 
   (wire (pts (xy 62.23 144.145) (xy 68.58 144.145))
     (stroke (width 0) (type default) (color 0 0 0 0))
