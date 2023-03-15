@@ -21,10 +21,9 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
 
+# Back up files 
+*polygonus-Shortage-Version/polygonus-Shortage-Version-backups/
 
 
 # Mac stuff

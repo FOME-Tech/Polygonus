@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+BT1,Battery_Cell,BatteryHolder_Keystone_1060_1x2032,-98.806,22.86,55,bottom
+C17,56u,CP_Radial_D8.0mm_P3.50mm,-40.64,65.494972,90,bottom
+C1001,56u,CP_Radial_D8.0mm_P3.50mm,-68.072,42.799,180,bottom
+D7,schottky,D_SOD-123,-85.908431,11.391269,-90,bottom
+J3,Conn_01x32,PinHeader_1x32_P2.54mm_Vertical,-127,70.587779,180,bottom
+J5,Conn_01x32,PinHeader_1x32_P2.54mm_Vertical,-33.087317,70.582684,180,bottom
+J6,Conn_01x16,PinHeader_1x16_P2.54mm_Vertical,-72.806286,55.705029,-90,bottom
+J7,Conn_01x16,PinHeader_1x16_P2.54mm_Vertical,-49.53,69.596912,-90,bottom
+J1502,Conn_02x05_Odd_Even,PinHeader_2x05_P1.27mm_Vertical_SMD,-80.391,10.668,-90,bottom
+U16,VNL5090,SOT-223,-40.570201,57.678659,90,bottom
+U17,VNL5090,SOT-223,-40.67741,48.766805,90,bottom
+U23,VNL5090,SOT-223,-42.258978,-5.78173,180,bottom
