@@ -1,7 +1,5 @@
 # Polygonus  
-Polygonus - PNP Proteus rusEFI  
-
-Proteus based brain board to enable modular PNP  
+Polygonus - FOME PNP Brain unit
 
 In scope -  
 - Critical systems on the majority of PNP targets  
