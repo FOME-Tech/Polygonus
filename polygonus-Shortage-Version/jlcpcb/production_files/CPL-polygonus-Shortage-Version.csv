@@ -1,11 +1,11 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 BT1,Battery_Cell,BatteryHolder_Keystone_1060_1x2032,127.082,-105.058,305.0,bottom
-C1,56u,CP_Radial_D8.0mm_P3.50mm,68.916,-62.423028,90.0,top
+C1,56u,CP_Radial_D8.0mm_P3.50mm,68.916,-60.770377,90.0,top
 C2,1u,C_0603_1608Metric,140.279326,-81.364052,90.0,top
 C3,1u,C_0603_1608Metric,149.815912,-77.264231,-90.0,top
 C4,4.7u,C_0603_1608Metric,103.587,-79.912,90.0,top
 C5,1u,C_0603_1608Metric,149.970368,-81.337502,90.0,top
-C6,56u,CP_Radial_D8.0mm_P3.50mm,96.348,-85.119,180.0,top
+C6,56u,CP_Radial_D8.0mm_P3.50mm,94.695349,-85.119,180.0,top
 C7,1u,C_0603_1608Metric,95.84,-92.104,180.0,top
 C8,10n,C_0603_1608Metric,96.918333,-95.620449,180.0,top
 C9,1u,C_0603_1608Metric,140.172736,-77.247402,-90.0,top
@@ -123,16 +123,16 @@ F1,Polyfuse,R_1206_3216Metric,150.647948,-62.483854,0.0,top
 F2,Polyfuse,R_1206_3216Metric,150.647948,-60.060439,180.0,top
 FB1,Ferrite_Bead,L_0805_2012Metric,130.384,-121.822,135.0,top
 IC1,PSM712-LF-T7,SOT-23,110.149291,-63.597863,180.0,top
-J4,Conn_01x32,PinHeader_1x32_P2.54mm_Vertical,61.363317,-57.335316,0.0,bottom
-J5,Conn_01x32,PinHeader_1x32_P2.54mm_Vertical,155.276,-57.330221,0.0,bottom
-J6,Conn_01x16,PinHeader_1x16_P2.54mm_Vertical,101.082286,-72.212971,270.0,bottom
-J7,Conn_01x16,PinHeader_1x16_P2.54mm_Vertical,77.806,-58.321088,270.0,bottom
+J4,Conn_01x32,PinHeader_1x32_P2.54mm_Vertical,61.363317,-96.710316,0.0,bottom
+J5,Conn_01x32,PinHeader_1x32_P2.54mm_Vertical,155.276,-96.705221,0.0,bottom
+J6,Conn_01x16,PinHeader_1x16_P2.54mm_Vertical,120.132286,-72.212971,270.0,bottom
+J7,Conn_01x16,PinHeader_1x16_P2.54mm_Vertical,96.856,-58.321088,270.0,bottom
 J8,Conn_02x05_Odd_Even,PinHeader_2x05_P1.27mm_Vertical_SMD,108.667,-117.25,180.0,bottom
 J10,Micro_SD_Card,microSD_HC_Wuerth_693072010801,87.204,-130.204,180.0,top
-J11,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,125.881501,-133.044837,90.0,top
-J12,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,136.088339,-136.214983,90.0,top
+J11,Conn_01x06,PinHeader_1x06_P2.54mm_Vertical,132.231501,-133.044837,90.0,top
+J12,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,137.363339,-136.214983,90.0,top
 J13,USB_B,conn_5_2.5mm,83.610209,-87.595853,180.0,top
-J14,USB_B,USB_B_TE_5787834_Vertical,86.696,-102.518,-90.0,top
+J14,USB_B,USB_B_TE_5787834_Vertical,84.2135,-101.268,-90.0,top
 L1,2.2u,L_1210_3225Metric,100.412,-80.928,180.0,top
 L2,10u,MWSA0503,107.524,-86.77,180.0,top
 R1,10k,R_0402_1005Metric,115.652,-129.442,-45.0,top
