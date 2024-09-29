@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,7.0.8*%
-%TF.CreationDate,2024-09-26T12:51:56+01:00*%
+%TF.CreationDate,2024-09-29T20:52:00+01:00*%
 %TF.ProjectId,polygonus-Shortage-Version,706f6c79-676f-46e7-9573-2d53686f7274,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L4,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 7.0.8) date 2024-09-26 12:51:56*
+G04 Created by KiCad (PCBNEW 7.0.8) date 2024-09-29 20:52:00*
 %MOMM*%
 %LPD*%
 G01*
@@ -199,8 +199,8 @@ X83496000Y-102518000D03*
 D16*
 %TO.P,J14,5,Pin_5*%
 %TO.N,/USB_SHIELD*%
-X83986000Y-107288000D03*
 X83986000Y-95248000D03*
+X83986000Y-107288000D03*
 %TD*%
 D12*
 %TO.P,J16,1,Pin_1*%
