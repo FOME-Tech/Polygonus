@@ -8842,7 +8842,7 @@
     (property "PN" "USBLC6-2" (at 281.94 111.125 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C7519" (at 281.94 111.125 0)
+    (property "LCSC" "C111212" (at 281.94 111.125 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "LCSC_ext" "1" (at 281.94 111.125 0)

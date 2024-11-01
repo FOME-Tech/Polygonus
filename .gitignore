@@ -26,10 +26,6 @@ fp-info-cache
 *.dsn
 *.ses
 
-# Exported BOM files
-*.xml
-*.csv
-
 # Backup files 
 *polygonus-Shortage-Version-backups/
 
