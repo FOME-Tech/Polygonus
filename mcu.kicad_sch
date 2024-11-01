@@ -4846,7 +4846,7 @@
     (property "Reference" "U26" (at 134.62 166.37 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "STM32F427ZGTx" (at 134.62 157.48 0)
+    (property "Value" "STM32F767ZITx" (at 134.62 157.48 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Package_QFP:LQFP-144_20x20mm_P0.5mm" (at 109.22 248.285 0)
