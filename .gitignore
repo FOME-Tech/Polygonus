@@ -31,3 +31,8 @@ fp-info-cache
 
 # Backup files 
 *polygonus-Shortage-Version-backups/
+
+# Exported BOM files
+*.xml
+gerber/
+production_files/
