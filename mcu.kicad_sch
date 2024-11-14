@@ -3542,7 +3542,6 @@
   (no_connect (at 217.17 54.61) (uuid 251bbd6b-00ad-4956-8621-28b4b522b62b))
   (no_connect (at 104.14 212.725) (uuid 2f1df4d4-ea41-4805-990c-fc64e9beb3f8))
   (no_connect (at 336.55 44.45) (uuid 31d127b8-e8f8-47b6-acc4-5f7197d756d8))
-  (no_connect (at 104.14 169.545) (uuid 3d38eca7-b037-4400-970c-46db57e3c3cb))
   (no_connect (at 53.975 267.97) (uuid 474da0bb-a80f-4ce4-b14e-5f26d8f31e91))
   (no_connect (at 104.14 149.225) (uuid 4f2de74c-a0a3-419c-86d3-f1056d120362))
   (no_connect (at 204.47 57.15) (uuid 7bc13ee4-2194-461b-9242-0d96ebba241b))
@@ -4838,6 +4837,10 @@
   (hierarchical_label "DIGITAL3" (shape input) (at 104.14 217.805 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid fc153f76-4971-47fe-9c36-88d5ca4ab507)
+  )
+  (hierarchical_label "TRIGGER_SCOPE" (shape input) (at 104.14 169.545 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid fed65d74-1b88-4a2f-901c-6d9462e1cd51)
   )
 
   (symbol (lib_id "MCU_ST_STM32F7:STM32F767ZITx") (at 134.62 161.925 0) (unit 1)
