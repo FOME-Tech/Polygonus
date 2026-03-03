@@ -33,10 +33,11 @@ Some early units use STM32F429ZG, this makes little functional difference.
     - Directly wire to hall cam/crank sensors
     - Use with a VR interface on the base board
     - Use for a digital input (oil pressure switch, driver switches and buttons, etc)
+- 2x knock sensor inputs (AC coupled, 1-15khz bandwidth)
 
 ## Outputs
 - 12x 4A low-side drivers, LS1-8 + LS13-16. No freewheel diodes, mount on the base board as required.
-- 4x unassigned direct-to-MCU outputs LS9-12.
+- 8x unassigned direct-to-MCU outputs LS9-12 and IGN9-12. Mount injector/ignition drivers on the base board if you have a V12, or use these for something else.
 - 8x 5v ignition (or general purpose) outputs IGN1-8. 5v push-pull, 100mA DC maximum.
 - 2x direct-to-MCU pins for electronic throttle H-bridges on base board.
 - 4x 12v 3A high-side outputs HS1-4.
