@@ -14,6 +14,14 @@ This is an ECU "brain module". Combined with a "base board", it forms a function
     - 512 KB SRAM
     - LQFP144 package
 
+## Connectivity
+
+- Dual 1 mbit/s CAN bus
+- USB 2.0 full speed (12 mbit/s). Footprint for USB-B connector in addition to header to mount connector on base board. DO NOT route USB signals to the vehicle harness, it will not work reliably.
+- Debug & programming:
+    - [10-pin, 1.27mm Cortex debug header](http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf)
+    - [6-pin Tag Connect TC2030](https://www.tag-connect.com/product/tc2030-ctx-nl-stdc14-for-use-with-stm32-processors-with-stlink-v3), use with STLINK-V3/STLINK-V3MINI
+
 ## Inputs
 
 - 11x analog voltage inputs (weak pulldown to ground to avoid floating)
@@ -29,12 +37,6 @@ This is an ECU "brain module". Combined with a "base board", it forms a function
 - 8x 5v ignition (or general purpose) outputs IGN1-8. 5v push-pull, 100mA DC maximum.
 - 2x direct-to-MCU pins for electronic throttle H-bridges on base board.
 - 4x 12v 3A high-side outputs HS1-4.
-
-## Connectivity
-
-- Dual 1 mbit/s CAN bus
-- USB 2.0 full speed (12 mbit/s), on-board or wired to connector for sealed applications
-- [10-pin, 1.27mm Cortex debug header](http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf)
 
 ## Power Supply
 
