@@ -2,7 +2,7 @@
 
 This is an ECU "brain module". Combined with a "base board", it forms a functional engine control unit compatible with [FOME](https://github.com/fome-tech/fome-fw) firmware. It is not intended to run an engine without being mated to a base board.
 
-This module is a derivative of the [Proteus ECU](https://github.com/mck1117/proteus): for the most part, it is a Proteus with the AMPSEAL connectors replaced with 0.1" headers.
+This module is a derivative of the [Proteus ECU](https://github.com/mck1117/proteus): for the most part, it is a Proteus with the AMPSEAL connectors replaced with 0.1" headers. It is 100% firmware compatible with Proteus, and indeed uses the Proteus FOME firmware build.
 
 # Features
 
@@ -13,6 +13,8 @@ This module is a derivative of the [Proteus ECU](https://github.com/mck1117/prot
     - 1MB or 2MB flash
     - 512 KB SRAM
     - LQFP144 package
+
+Some early units use STM32F429ZG, this makes little functional difference.
 
 ## Connectivity
 
