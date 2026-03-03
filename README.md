@@ -1,8 +1,8 @@
-# Polygonus
+# Polygonus - FOME ECU Module
 
-Polygonus - FOME ECU module
+This is an ECU "brain module". Combined with a "base board", it forms a functional engine control unit compatible with [FOME](https://github.com/fome-tech/fome-fw) firmware. It is not intended to run an engine without being mated to a base board.
 
-This is an ECU "brain module". Combined with a "base board", it forms a functional engine control unit compatible with [FOME](https://github.com/fome-tech/fome-fw) firmware.
+This module is a derivative of the [Proteus ECU](https://github.com/mck1117/proteus): for the most part, it is a Proteus with the AMPSEAL connectors replaced with 0.1" headers.
 
 # Features
 
@@ -18,6 +18,7 @@ This is an ECU "brain module". Combined with a "base board", it forms a function
 
 - Dual 1 mbit/s CAN bus
 - USB 2.0 full speed (12 mbit/s). Footprint for USB-B connector in addition to header to mount connector on base board. DO NOT route USB signals to the vehicle harness, it will not work reliably.
+- Micro SD card slot. Supports SD + SDHC using an SPI interface.
 - Debug & programming:
     - [10-pin, 1.27mm Cortex debug header](http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf)
     - [6-pin Tag Connect TC2030](https://www.tag-connect.com/product/tc2030-ctx-nl-stdc14-for-use-with-stm32-processors-with-stlink-v3), use with STLINK-V3/STLINK-V3MINI
